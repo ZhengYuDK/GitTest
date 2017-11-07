@@ -1,0 +1,2 @@
+if user.name and user.email is not set by : git config user.name zhengyudk 
+then git uses Windows default user name and email
